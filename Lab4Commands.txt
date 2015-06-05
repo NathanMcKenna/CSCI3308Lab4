@@ -1,0 +1,19 @@
+Lab 4
+
+3. https://github.com/NathanMcKenna/CSCI3308Lab4.git
+
+4. 
+git add README.txt
+git commit -m Added README file
+
+5. git add filename
+   git commit -m "Put message here"
+
+6. git tag -a Practice_Tag_1 -m "Message here"
+
+7. git push origin master
+
+8. git branch TempBranch
+   git checkout TempBranch
+
+9.
