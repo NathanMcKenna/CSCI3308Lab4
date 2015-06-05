@@ -13,7 +13,48 @@ git commit -m Added README file
 
 7. git push origin master
 
-8. git branch TempBranch
+8. git branch TempBranch (I used TempBranch instead of Testing_New_Files)
    git checkout TempBranch
 
-9.
+9. git add Lab4Commands.txt 
+   git commit -m "Added commands file"
+
+10. git checkout master
+
+11. vim README.txt (Made changes to this)
+    git commit
+
+12. git merge TempBranch
+
+13. git checkout TempBranch
+
+14. vim Doba.txt (Created and edited this file)
+
+15. git push origin master
+    git push origin TempBranch
+
+16. Partner is Hussain Ali
+
+17. Done through github website repo settings
+
+18. git clone https://github.com/hussainaa/CSCI3308.git
+
+19. vim README.md
+    added my name to the file
+
+20. git add README.md
+    git commit -m "Added name to readme"
+
+21. git push
+
+22.
+
+23.git checkout master
+
+24. 
+
+25. git add README.md
+    git commit -m "Added merge conflict statement"
+
+
+
